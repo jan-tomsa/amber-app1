@@ -1,0 +1,31 @@
+{
+    "name": "myfirstamberapp",
+    "description": "My app for trying out Amber.",
+    "version": "0.1.0",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "/test_runner.js",
+        "test",
+        "tests"
+    ],
+    "authors": [
+        {
+            "name": "Jan Tomsa",
+            "email": ""
+        }
+    ],
+    "homepage": "https://github.com/jan-tomsa/amber-app1",
+    "keywords": [
+        "Amber",
+        "Smalltalk"
+    ],
+    "license": [
+        "MIT"
+    ],
+    "private": false,
+    "dependencies": {
+        "amber": "~0.12.6"
+    }
+}
